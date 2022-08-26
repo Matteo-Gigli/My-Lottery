@@ -36,6 +36,8 @@
 <p><strong>As we can see from the contract, now we have some functions.</strong></p> 
 <br>
 <br>
+<h3>Functions are:</h3>
+<br>
 <p><strong>buyTokens(where a user can pay via ether and receive tokens)</strong></p>
 <br>
 <p><strong>setItemToWin(name, defaultBid, endingTimeLottery) Only For the Owner and gives the possibility to set an item for the Lottery</strong></p>
